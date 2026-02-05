@@ -6,9 +6,9 @@
 ---
 
 ### Ministrantes:
-Dr. Enrique Mattos - UNIFEI
-Dr. Guilherme Martins – NOTTUS Meteorologia
-Diego Souza - INPE
+- Dr. Enrique Mattos - UNIFEI
+- Dr. Guilherme Martins – NOTTUS Meteorologia
+- Diego Souza - INPE
 
 ---
 
