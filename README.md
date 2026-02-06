@@ -41,10 +41,10 @@ Ao final do curso o alunos terão a capacidade de:
 
 | Data | Horário | Carga Horária | Aulas |
 |------|---------|:-------------:|--------|
-| XX/julho | 08:00-09:00  | 1h | **Aula teórica** sobre estimativa de queimadas por satélite. Satélites AQUA, GOES e NOAA/NPP |
-| XX/julho | 09:00-12:00  | 3h | **Aula prática** - Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE |
-| XX/julho | 08:00-09:00  | 1h | **Aula teórica** sobre satélites SENTINEL e LANDSAT|
-| XX/julho | 09:00-12:00  | 3h | **Aula prática** - Processamento e Visualização de Dados de Queimadas com o Google Earth Engine (GEE) |
+| XX/julho |  08:00-09:00  | 1h | **Aula teórica** sobre estimativa de queimadas por satélite. Satélites AQUA, GOES e NOAA/NPP |
+| XX/julho |  09:00-12:00  | 3h | **Aula prática** - Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE |
+| XX/julho |  08:00-09:00  | 1h | **Aula teórica** sobre satélites SENTINEL e LANDSAT|
+| XX/julho |  09:00-12:00  | 3h | **Aula prática** - Processamento e Visualização de Dados de Queimadas com o Google Earth Engine (GEE) |
 
 ---
 
