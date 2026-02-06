@@ -121,9 +121,9 @@ O repositório do curso possui as seguintes diretórios e códigos python:
 
 ### 📧 Contato
 Para mais informações, entre em contato através dos e-mails: 
-Enrique Mattos - enrique@unifei.edu.br
-Guilherme Martins - jgmasantos@gmail.com
-Diego Souza - diego.souza@inpe.br
+- Enrique Mattos - enrique@unifei.edu.br
+- Guilherme Martins - jgmasantos@gmail.com
+- Diego Souza - diego.souza@inpe.br
 
 
 
