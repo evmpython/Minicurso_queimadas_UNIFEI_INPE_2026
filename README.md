@@ -54,67 +54,29 @@ Ao final do curso o alunos terão a capacidade de:
 
 ### Aula 1: Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE
 - Conhecendo e Acessando os Dados de Focos de Calor Fornecidos pelo INPE
-<img width="1398" height="81" alt="image" src="https://github.com/user-attachments/assets/8e3c8fae-2a8c-4e1e-8331-932adf00973e" />
+- Leitura dos Dados de Focos de Calor de 2003 à 2026
+- Mapa de Acumulado de Focos de Calor
+- Mapa de Acumulado e Anomalia de Focos de Calor
+- Séries Temporais de Focos de Calor
+- Risco de Fogo Observado
+- Risco de Fogo Previsto
 
-- Projeção Satélite em T-Realçada
-- Projeção Retangular em Níveis de Cinza
-- Projeção Retangular em T-Realçada
-- Plotando Várias Imagens do IR e Criando Animação
-- Plotando Painel de Imagens
+### Aula 2: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
+- Conhecendo o Google Earth Engine (GEE)
+- Mapas Interativos com Geemap
+- Carregando os Dados no GEE
+- Detecção de Focos de Calor com os dados FIRMS
+- Visualização de Cicatrizes de Queimadas com Composição de Bandas
+- Normalized Burn Ratio (NBR)
+- Burned Area Index (BAI)
+- Detecção de Área Queimada e Séries Temporais com os Satélites LANDSAT
+- Área Queimada com o Produto MODIS MCD64A1
 
-### Aula 2: Analisando Dados de Relâmpagos Estimados por Satélite
-- Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 20s da NOAA
-- Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 5min do INPE
-- Combinação de Imagens de Satélite e Relâmpagos do GLM
-- Evolução Temporal da Temperatura de Brilho do IR e Relâmpagos 
-
-### Aula 3: Processando e Visualizando Dados de Estações Meteorológicas
--	Conhecendo os Dados das Estações Meteorológicas do INMET
--	Mapa Interativo com Estações Meteorológicas
--	Climograma
--	Série Temporal Horária
--	Série Temporal Diária
--	Série Temporal Mensal
--	Série Temporal Anual
-
-### Aula 4: Mapas e Séries Temporais de Precipitação Estimada por Satélite
--	Conhecendo o Produto MERGE 
--	Precipitação por Hora
--	Precipitação por Dia
--	Precipitação por Mês
--	Climatologia
-   > 1. Acumulado e anomalia de precipitação para um determinado mês para o Brasil
-   > 2. Acumulado médio mensal de precipitação entre 1998 e 2025 para o Mato Grosso do Sul
-   > 3. Acumulado e anomalia de precipitação para 2025 para o Brasil
-   > 4. Acumulado de precipitação entre 2020 e 2025 para o Mato Grosso do Sul
--	Séries Temporais
-   > 1. Extração de série temporal
-   > 2. Série temporal total mensal 
-   > 3. Série temporal total mensal da anomalia
-   > 4. Distribuição mensal-boxplot
-   > 5. Mensal climatológica
-   > 6. Série temporal anual
-   > 7. Série temporal da anomalia anual
- 
-### Aula 5: Índices de Vegetação com Google Earth Engine
--	Mapas Interativos com Geemap
--	Conhecimentos Básicos de Índices Espectrais
--	Carregando os Dados no Google Earth Engine (GEE)
--	Plotando Mapa Interativo com Dados
--	Fazendo Animações
--  Mapas Climatológicos
--  Séries Temporais
--  Índice de Vegetação com o Satélite Sentinel-2	
-
-### Aula 6: Monitoramento de Queimadas por Satélite
--  Mapas Interativos com Leafmap
--  Mapa de Densidade de Focos de Calor
--  Séries Temporais de Focos de Calor
 ---
 
 ## 🎓 Público-Alvo
 
-Estudantes de Graduação e Pós-Graduação da Universidade Federal do Mato Grosso do Sul (UFMS) e Servidores do Centro de Monitoramento do Tempo e do Clima do Estado do Mato Grosso do Sul (CEMTEC).
+Estudantes de graduação, pós-graduação e profissionais da área de Meteorologia e Ciências Ambientais.
 
 ---
 > [!WARNING]
@@ -126,13 +88,12 @@ Estudantes de Graduação e Pós-Graduação da Universidade Federal do Mato Gro
 > [!TIP]
 > Conhecimento básico de Python (desejável)
 
-
 ---
 
 ## 📁 Material do Curso
 
 Todo o material está disponível no GitHub:  
-https://github.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026
+https://github.com/evmpython/Minicurso_UNIFEI_INPE_NOTTUS_2026
 
 ---
 
@@ -146,22 +107,23 @@ O repositório do curso possui as seguintes diretórios e códigos python:
    > - **04_logos:** logos/figura utilizadas dentros dos códigos
  
 - **Códigos:**
-   > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:** código python da Aula 01 - Processamento e Visualização de Imagens de Satélite
-   > - **AULA_2_Relampagos.ipynb:** código python da Aula 02 - Analisando Dados de Relâmpagos Estimados por Satélite
-   > - **Aula_3_Estacoes_Meteorologicas.ipynb:** código python da Aula 03 - Processando e Visualizando Dados de Estações Meteorológicas
-   > - **AULA_4_Mapas_e_Series_Temporais_de_Precipitacao_Estimada_por_Satelite.ipynb:** código python da Aula 04 - Mapas e Séries Temporais de Precipitação Estimada por Satélite 
-   > - **AULA_5_Indices_de_Vegetacao_com_Google_Earth_Engine.ipynb:** código python da Aula 05 - Índices de Vegetação com Google Earth Engine 
-   > - **AULA_6_Queimadas.ipynb:** código python da Aula 06 - Monitoramento de Queimadas por Satélite 
+   > - **AULA_1_Queimadas_com_Dados_do_INPE.ipynb:** código python da Aula 01 - Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE
+   > - **AULA_2_Queimadas_com_Google_Earth_Engine.ipynb:** código python da Aula 02 - Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
 ---
 
 ## 🏫 Instituições Envolvidas
 
 - **Universidade Federal de Itajubá (UNIFEI)**
-- **Universidade Federal do Mato Grosso do Sul (UFMS)**
-- **Centro de Monitoramento do Tempo e do Clima do Estado do Mato Grosso do Sul (CEMTEC)**
+- **Instituto Nacional de Pesquisas Espaciais (INPE)**
+- **Nottus Meteorologia**
 
 ---
 
 ### 📧 Contato
-Para mais informações, entre em contato através do email: enrique@unifei.edu.br
+Para mais informações, entre em contato através dos e-mails: 
+Enrique Mattos - enrique@unifei.edu.br
+Guilherme Martins - jgmasantos@gmail.com
+Diego Souza - diego.souza@inpe.br
+
+
 
