@@ -52,8 +52,10 @@ Ao final do curso o alunos terão a capacidade de:
 
 ## 🛰️ Conteúdo Programático
 
-### Aula 1: Processamento e Visualização de Imagens de Satélite
-- Projeção Satélite em Níveis de Cinza
+### Aula 1: Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE
+- Conhecendo e Acessando os Dados de Focos de Calor Fornecidos pelo INPE
+<img width="1398" height="81" alt="image" src="https://github.com/user-attachments/assets/8e3c8fae-2a8c-4e1e-8331-932adf00973e" />
+
 - Projeção Satélite em T-Realçada
 - Projeção Retangular em Níveis de Cinza
 - Projeção Retangular em T-Realçada
