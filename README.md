@@ -58,15 +58,21 @@ Ao final do curso os alunos terão a capacidade de:
 - Risco de Fogo Previsto
 
 ### Atividade Prática II: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
-- Conhecendo o Google Earth Engine (GEE)
-- Mapas Interativos com Geemap
-- Carregando os Dados no GEE
-- Detecção de Focos de Calor com os dados FIRMS
-- Visualização de Cicatrizes de Queimadas com Composição de Bandas
-- Normalized Burn Ratio (NBR)
-- Burned Area Index (BAI)
-- Detecção de Área Queimada e Séries Temporais com os Satélites LANDSAT
-- Área Queimada com o Produto MODIS MCD64A1
+1.  Conhecendo o Google Earth Engine (GEE)
+2.  Mapas Interativos com Geemap
+    3.  Carregando Dados no Google Earth Engine (GEE)
+    4.  Detecção de Focos de Calor com os Dados FIRMS
+    5.  Detecção de Focos de Calor com os Dados VIIRS (NOAA-20)
+    6.  Detecção de Focos de Calor com os Dados GOES-16
+    7.  Visualização das Cicatrizes das Queimadas Através da Composição de Bandas do Sentinel-2
+    8.  Normalized Difference Vegetation Index (NDVI)
+    9.  Normalized Burn Ratio (NBR)
+    10.  Analytical Burned Area Index (ABAI)
+    11. Detecção de Área Queimada e Geração de Séries Temporais com os Satélites Landsat
+    12. Produtos MOD14A1, MYD14A1 e MCD64A1 de Queimadas do Sensor MODIS
+    13. Produto MCD19A2 de Aerossol dos Satélites AQUA e TERRA
+    14. Produtos de Gases Amosféricos Estimados pelo Sentinel-5P
+    15. Principais Imagens e Índices numa Única Figura
 
 ---
 
