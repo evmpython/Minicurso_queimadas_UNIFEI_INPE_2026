@@ -110,14 +110,15 @@ O repositório do curso possui as seguintes diretórios e códigos python:
 - **Códigos:**
    > - **AULA_1_Queimadas_com_Dados_do_INPE.ipynb:** código python da Aula 01 - Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE
    > - **AULA_2_Queimadas_com_Google_Earth_Engine.ipynb:** código python da Aula 02 - Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
+   > - **01_Material_Pre_Aula_02.pdf:** material pré-curso da atividade II. 
 ---
 
 ## 🏫 Instituições Envolvidas
 
 - **Universidade Federal de Itajubá (UNIFEI)**
-- **Instituto Nacional de Pesquisas Espaciais (INPE)**
 - **Nottus Meteorologia**
-
+- **Instituto Nacional de Pesquisas Espaciais (INPE)**
+- 
 ---
 
 ### 📧 Contato
