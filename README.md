@@ -113,12 +113,18 @@ O repositório do curso possui as seguintes diretórios e códigos python:
    > - **01_Material_Pre_Aula_02.pdf:** material pré-curso da atividade II. 
 ---
 
+## Observações
+- Os materiais do curso serão disponibilizados no Moodle do INPE: https://moodle.cptec.inpe.br/
+- A atividade pré-curso será disponibilizada na semana anterior ao treinamento
+- As sessões online serão realizadas através da ferramenta Conferência Web da RNP (o link de acesso será enviado previamente)
+- A sala será aberta 10 minutos antes do início das sessões
+---
+
 ## 🏫 Instituições Envolvidas
 
 - **Universidade Federal de Itajubá (UNIFEI)**
 - **Nottus Meteorologia**
 - **Instituto Nacional de Pesquisas Espaciais (INPE)**
-- 
 ---
 
 ### 📧 Contato
