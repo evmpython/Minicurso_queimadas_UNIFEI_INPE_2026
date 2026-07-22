@@ -9,16 +9,21 @@
 - Dr. Enrique Mattos - UNIFEI
 - Dr. Guilherme Martins – NOTTUS Meteorologia
 - Diego Souza - INPE
+- Vanúcia Schumacher (INPE)
+- Paulo Cunha (INPE)
+
+### Colaboradores:
+- Diego Souza (INPE)
 
 ---
 
 ## 📋 Informações Gerais
 
 - **Formato:** Online 
-- **Data:** XX e XX de julho de 2026
-- **Horário:** 08:00 às 12:00 horas 
-- **Vagas disponíveis:** XX vagas
-- **Carga Horária:** 8 horas
+- **Data:** 29, 30 e 31 de julho de 2026
+- **Horário:** 08:30 às 12:00 horas 
+- **Vagas disponíveis:** 150 vagas via RNP e ilimitado via RNP Play
+- **Carga Horária:** 10,5 horas
 
 ---
 
@@ -37,15 +42,8 @@ Ao final do curso os alunos terão a capacidade de:
 
 ---
 
-## 📊 Cronograma
+## 📊 Programação do Curso:
 ![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026/main/04_logos/programacao_gif.jpg)
-
-| Data | Horário | Carga Horária | Aulas |
-|------|---------|:-------------:|--------|
-| XX/julho |  08-09  | 1h | **Aula teórica** sobre estimativa de queimadas por satélite. Satélites AQUA, GOES e NOAA/NPP |
-| XX/julho |  09-12  | 3h | **Aula prática** - Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE |
-| XX/julho |  08-09  | 1h | **Aula teórica** sobre satélites SENTINEL e LANDSAT|
-| XX/julho |  09-12  | 3h | **Aula prática** - Processamento e Visualização de Dados de Queimadas com o Google Earth Engine (GEE) |
 
 ---
 
