@@ -2,7 +2,7 @@
 ---
 
 # 💻 Minicurso: 
-*Processamento e Visualização de Dados de Queimadas (PyFIRE)*
+*Processamento e Visualização de Dados de Queimadas*
 ---
 
 ### Ministrantes:
@@ -57,7 +57,7 @@ Ao final do curso os alunos terão a capacidade de:
 - Risco de Fogo Observado
 - Risco de Fogo Previsto
 
-### Aula 2: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
+### ATIVIDADE PRÁTICA II: PROCESSAMENTO E VISUALIZAÇÃO DE DADOS DE QUEIMADAS COM O GOOGLE EARTH ENGINE (GEE): Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
 - Conhecendo o Google Earth Engine (GEE)
 - Mapas Interativos com Geemap
 - Carregando os Dados no GEE
