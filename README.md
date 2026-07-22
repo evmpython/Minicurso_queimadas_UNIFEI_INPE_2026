@@ -48,31 +48,30 @@ Ao final do curso os alunos terão a capacidade de:
 
 ## 🛰️ Conteúdo Programático
 
-### Aula 1: Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE
-- Conhecendo e Acessando os Dados de Focos de Calor Fornecidos pelo INPE
-- Leitura dos Dados de Focos de Calor de 2003 à 2026
-- Mapa de Acumulado de Focos de Calor
-- Mapa de Acumulado e Anomalia de Focos de Calor
-- Séries Temporais de Focos de Calor
-- Risco de Fogo Observado
-- Risco de Fogo Previsto
+### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
+1. Exploração e padronização de dados de focos de queimadas.
+2. Manipulação de GeoDataFrames da América do Sul e do Brasil.
+3. Sistemas de referência de coordenadas (CRS) e reprojeção.
+4. Filtragem espacial e temporal de focos de queimadas.
+5. Agregação de dados em diferentes escalas temporais.
+6. Visualização dos resultados por meio de tabelas, gráficos e mapas estáticos e interativos.
 
 ### Atividade Prática II: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
 1.  Conhecendo o Google Earth Engine (GEE)
 2.  Mapas Interativos com Geemap
-    3.  Carregando Dados no Google Earth Engine (GEE)
-    4.  Detecção de Focos de Calor com os Dados FIRMS
-    5.  Detecção de Focos de Calor com os Dados VIIRS (NOAA-20)
-    6.  Detecção de Focos de Calor com os Dados GOES-16
-    7.  Visualização das Cicatrizes das Queimadas Através da Composição de Bandas do Sentinel-2
-    8.  Normalized Difference Vegetation Index (NDVI)
-    9.  Normalized Burn Ratio (NBR)
-    10.  Analytical Burned Area Index (ABAI)
-    11. Detecção de Área Queimada e Geração de Séries Temporais com os Satélites Landsat
-    12. Produtos MOD14A1, MYD14A1 e MCD64A1 de Queimadas do Sensor MODIS
-    13. Produto MCD19A2 de Aerossol dos Satélites AQUA e TERRA
-    14. Produtos de Gases Amosféricos Estimados pelo Sentinel-5P
-    15. Principais Imagens e Índices numa Única Figura
+3.  Carregando Dados no Google Earth Engine (GEE)
+4.  Detecção de Focos de Calor com os Dados FIRMS
+5.  Detecção de Focos de Calor com os Dados VIIRS (NOAA-20)
+6.  Detecção de Focos de Calor com os Dados GOES-16
+7.  Visualização das Cicatrizes das Queimadas Através da Composição de Bandas do Sentinel-2
+8.  Normalized Difference Vegetation Index (NDVI)
+9.  Normalized Burn Ratio (NBR)
+10.  Analytical Burned Area Index (ABAI)
+11. Detecção de Área Queimada e Geração de Séries Temporais com os Satélites Landsat
+12. Produtos MOD14A1, MYD14A1 e MCD64A1 de Queimadas do Sensor MODIS
+13. Produto MCD19A2 de Aerossol dos Satélites AQUA e TERRA
+14. Produtos de Gases Amosféricos Estimados pelo Sentinel-5P
+15. Principais Imagens e Índices numa Única Figura
 
 ---
 
