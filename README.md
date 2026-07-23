@@ -48,6 +48,14 @@ Ao final do curso os alunos terão a capacidade de:
 
 ## 🛰️ Conteúdo Programático
 
+### Visão Geral do Programa Queimadas (INPE)
+
+### Atividades de Pesquisa Relacionadas a Queimadas e Aerossóis 
+
+### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites 
+
+### Aula Teórica II: Sattélites Sentinel e Landsat 
+
 ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
 1. Exploração e padronização de dados de focos de queimadas.
 2. Manipulação de GeoDataFrames da América do Sul e do Brasil.
