@@ -8,7 +8,7 @@
 ### Ministrantes:
 - Dr. Enrique Mattos (UNIFEI)
 - Dr. Guilherme Martins (NOTTUS Meteorologia)
-- Vanúcia Schumacher (INPE)
+- Dra. Vanúcia Schumacher (INPE)
 - Paulo Cunha (INPE)
 
 ### Colaboradores:
