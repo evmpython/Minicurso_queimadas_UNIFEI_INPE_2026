@@ -50,13 +50,13 @@ Ao final do curso os alunos terão a capacidade de:
 
 - ### Visão Geral do Programa Queimadas (INPE)
 
-### Atividades de Pesquisa Relacionadas a Queimadas e Aerossóis 
+- ### Atividades de Pesquisa Relacionadas a Queimadas e Aerossóis 
 
-### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites 
+- ### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites 
 
-### Aula Teórica II: Sattélites Sentinel e Landsat 
+- ### Aula Teórica II: Sattélites Sentinel e Landsat 
 
-### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
+- ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
 1. Exploração e padronização de dados de focos de queimadas.
 2. Manipulação de GeoDataFrames da América do Sul e do Brasil.
 3. Sistemas de referência de coordenadas (CRS) e reprojeção.
@@ -64,7 +64,7 @@ Ao final do curso os alunos terão a capacidade de:
 5. Agregação de dados em diferentes escalas temporais.
 6. Visualização dos resultados por meio de tabelas, gráficos e mapas estáticos e interativos.
 
-### Atividade Prática II: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
+- ### Atividade Prática II: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
 1.  Conhecendo o Google Earth Engine (GEE)
 2.  Mapas Interativos com Geemap
 3.  Carregando Dados no Google Earth Engine (GEE)
