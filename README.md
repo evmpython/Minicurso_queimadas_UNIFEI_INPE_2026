@@ -91,7 +91,8 @@ Estudantes de graduação, pós-graduação e profissionais da área de Meteorol
 > [!WARNING]
 > Pré-requisitos necessários para executar os códigos: 
   > 1. Possuir uma conta de E-mail do Gmail
-  > 2. Possuir uma conta no Google Earth Engine: https://earthengine.google.com/. Veja vídeo explicando como criar uma conta no GEE e a ID do projeto: https://www.youtube.com/watch?v=RuKTG0rHHSw&t=6s 
+  > 2. Possuir uma conta no Google Earth Engine: https://earthengine.google.com/. Veja vídeo explicando como criar uma conta no GEE e a ID do projeto: https://www.youtube.com/watch?v=ZteBH_M5prw
+ 
 
 ---
 > [!TIP]
