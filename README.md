@@ -48,7 +48,7 @@ Ao final do curso os alunos terão a capacidade de:
 
 ## 🛰️ Conteúdo Programático
 
-### Visão Geral do Programa Queimadas (INPE)
+- ### Visão Geral do Programa Queimadas (INPE)
 
 ### Atividades de Pesquisa Relacionadas a Queimadas e Aerossóis 
 
