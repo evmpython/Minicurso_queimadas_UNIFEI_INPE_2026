@@ -50,7 +50,7 @@ Ao final do curso os alunos terão a capacidade de:
 
 - ### Visão Geral do Programa Queimadas (INPE)
 
-- ### Atividades de Pesquisa Relacionadas a Queimadas e Aerossóis 
+- ### Atividades de Pesquisas Relacionadas a Queimadas e Aerossóis 
 
 - ### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites 
 
