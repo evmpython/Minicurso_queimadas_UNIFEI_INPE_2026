@@ -42,7 +42,7 @@ Ao final do curso os alunos terão a capacidade de:
 ---
 
 ## 📊 Programação do Curso:
-![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026/main/04_logos/programacao_gif.jpg)
+![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026/main/04_logos/programacao_ATUAL.png)
 
 ---
 
