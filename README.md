@@ -107,9 +107,8 @@ https://github.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026
 ---
 
 ## 📂 Estrutura do Repositório do Curso
-O repositório do curso possui as seguintes diretórios e códigos python:
+O repositório do curso possui os seguintes diretórios:
 
-- **Diretórios:**
    > - **01_utils:** funções extras utilizadas nos códigos das aulas
    > - **02_figuras_produzidas:** exemplos das figuras que serão produzidas no curso
    > - **03_material_complementar:** material de leitura teórico complementar 
