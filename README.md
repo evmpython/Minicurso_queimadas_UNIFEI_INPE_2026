@@ -31,7 +31,7 @@
 
 Ao final do curso os alunos terão a capacidade de: 
 
-- Analisar séries temporais de focos de calor
+- Gerar e analisar séries temporais de focos de calor
 - Aplicar inteligência artificial para classificar os diferentes níveis de atividade de queimadas  
 - Analisar imagens de satélite para identificação visual de queimadas
 - Trabalhar com índices espectrais para detecção de queimadas
