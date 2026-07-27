@@ -27,13 +27,12 @@
 ---
 
 ## 🎯 Objetivo do Curso
-<p align="justify"> O curso tem como objetivo ensinar aos alunos como acessar e analisar dados de focos de calor produzidos por queimadas detectadas por satélites polares e geoestacionários. O curso terá duas componentes: teórica e prática. Na componente teórica serão abordados os fundamentos da detecção de focos de calor por satélite, tipos de satélites disponíveis e canal espectral utilizado. Na componente prática será empregado a linguagem de programação Python e o Google Colab, onde os alunos aprenderão a baixar os dados, processar, gerar gráficos e analisar os resultados. A base de dados da aula prática consiste dos dados de focos de calor processados e disponibilizados pelo INPE e os dados de queimadas disponibilizados pela Plataforma Google Earth Engine (GEE). </p>
+<p align="justify"> O curso tem como objetivo ensinar como acessar e analisar dados de focos de calor e cicatrizes de queimadas detectadas por satélites polares e geoestacionários. O curso terá duas componentes: teórica e prática. Na componente teórica serão abordados os fundamentos da detecção de focos de calor por satélite, tipos de satélites disponíveis, canal espectral utilizado e cicatrizes de queimadas. Na componente prática será empregado a linguagem de programação Python e o Google Colab, onde os alunos aprenderão a baixar os dados, processar, gerar gráficos e analisar os resultados. A base de dados da aula prática consiste dos dados de focos de calor processados e disponibilizados gratuitamente pelo INPE e os dados de queimadas disponibilizados pela Plataforma Google Earth Engine (GEE). </p>
 
 Ao final do curso os alunos terão a capacidade de: 
 
 - Analisar séries temporais de focos de calor
-- Gerar análises climatológicas do acumulado e anomalia de focos de calor
-- Analisar risco de fogo 
+- Aplicar inteligência artificial para classificar os diferentes níveis de atividade de queimadas  
 - Analisar imagens de satélite para identificação visual de queimadas
 - Trabalhar com índices espectrais para detecção de queimadas
 - Calcular tamanho da área queimada
