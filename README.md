@@ -31,8 +31,11 @@
 
 **Ao final do curso os alunos terão a capacidade de:**
 
-- Gerar e analisar séries temporais de focos de calor
-- Aplicar inteligência artificial para classificar os diferentes níveis de atividade de queimadas  
+- Obter automaticamente os dados de focos de calor
+- Processar e analisar os focos de calor para uma determinada região
+- Gerar visualizações estática e dinâmica de focos de calor
+- Gerar análises estatísticas e visualizações na escala mensal e anual de focos de calor
+- Exemplo prático de como implementar o algoritmo K-MEANS para identificar a sazonalidade dos focos de calor.
 - Analisar imagens de satélite para identificação visual de queimadas
 - Trabalhar com índices espectrais para detecção de queimadas
 - Calcular tamanho da área queimada
