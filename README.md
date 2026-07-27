@@ -114,12 +114,11 @@ O repositório do curso possui as seguintes diretórios e códigos python:
    > - **01_utils:** funções extras utilizadas nos códigos das aulas
    > - **02_figuras_produzidas:** exemplos das figuras que serão produzidas no curso
    > - **03_material_complementar:** material de leitura teórico complementar 
-   > - **04_logos:** logos/figura utilizadas dentros dos códigos
- 
-- **Códigos:**
-   > - **AULA_1_Queimadas_com_Dados_do_INPE.ipynb:** código python da Aula 01 - Processamento e Visualização de Dados de Focos de Calor Disponibilizados pelo INPE
-   > - **AULA_2_Queimadas_com_Google_Earth_Engine.ipynb:** código python da Aula 02 - Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
-   > - **01_Material_Pre_Aula_02.pdf:** material pré-curso da atividade II. 
+   > - **04_logos:** logos/figuras utilizadas dentros dos códigos
+   > - **05_apresentacoes_das_aulas_teoricas:** apresentações power-point das aulas teéoricas
+   > - **06_material_pre_aula:** materiais como preparação das aulas
+   > - **07_codigos_das_atividades_praticas:** códigos python que serão utilizados nas atividades práticas I e II
+
 ---
 
 ## Observações
