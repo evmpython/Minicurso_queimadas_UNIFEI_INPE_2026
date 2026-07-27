@@ -54,7 +54,7 @@ Ao final do curso os alunos terão a capacidade de:
 
 - ### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites 
 
-- ### Aula Teórica II: Sattélites Sentinel e Landsat 
+- ### Aula Teórica II: Satélites Sentinel e Landsat 
 
 - ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
 1. Exploração e padronização de dados de focos de queimadas.
