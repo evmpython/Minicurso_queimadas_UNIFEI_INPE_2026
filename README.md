@@ -57,8 +57,8 @@ Ao final do curso os alunos terão a capacidade de:
 - ### Aula Teórica II: Satélites Sentinel e Landsat 
 
 - ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
-1. Exploração e padronização de dados de focos de queimadas.
-2. Manipulação de GeoDataFrames da América do Sul e do Brasil.
+  1. Exploração e padronização de dados de focos de queimadas.
+  2. Manipulação de GeoDataFrames da América do Sul e do Brasil.
 3. Sistemas de referência de coordenadas (CRS) e reprojeção.
 4. Filtragem espacial e temporal de focos de queimadas.
 5. Agregação de dados em diferentes escalas temporais.
