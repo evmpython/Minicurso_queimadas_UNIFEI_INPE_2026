@@ -44,7 +44,7 @@
 ---
 
 ## 📊 Programação do Curso:
-![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026/main/04_logos/programação_ATUAL.png)
+![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026/main/04_logos/programação_atualizada.png)
 
 ---
 
