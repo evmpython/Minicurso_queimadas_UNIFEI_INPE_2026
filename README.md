@@ -73,7 +73,7 @@
   6. Visualização dos resultados por meio de tabelas, gráficos e mapas estáticos e interativos
 
 - ### Atividade Prática II: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
- **Ministrante**: Enrique Mattos
+  Ministrante: Enrique Mattos
   1.  Conhecendo o Google Earth Engine (GEE)
   2.  Mapas Interativos com Geemap
   3.  Carregando Dados no Google Earth Engine (GEE)
