@@ -52,14 +52,14 @@
 
 - ### Visão Geral do Programa Queimadas (INPE) - Paulo Cunha
 
-- ### Sistemas e Ferramentas Operacionais de Queimadas e Pesquisas Aplicadas
+- ### Sistemas e Ferramentas Operacionais de Queimadas e Pesquisas Aplicadas - Vanúcia Schumacher 
   1. Apresentar os principais sistemas e ferramentas operacionais utilizados no monitoramento de queimadas, destacando suas características e limitações. Em seguida, serão apresentados exemplos de aplicações da pesquisa científica na área de queimadas.
 
-- ### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites 
+- ### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites - Guilherme Martins
 
-- ### Aula Teórica II: Satélites Sentinel e Landsat 
+- ### Aula Teórica II: Satélites Sentinel e Landsat - Enrique Mattos
 
-- ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
+- ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE - Guilherme Martins
   1. Exploração e padronização de dados de focos de queimadas
   2. Manipulação de GeoDataFrames da América do Sul e do Brasil
   3. Sistemas de referência de coordenadas (CRS) e reprojeção
@@ -67,7 +67,7 @@
   5. Agregação de dados em diferentes escalas temporais
   6. Visualização dos resultados por meio de tabelas, gráficos e mapas estáticos e interativos
 
-- ### Atividade Prática II: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE)
+- ### Atividade Prática II: Processamento e Visualização de Dados de Queimadas com Google Earth Engine (GEE) - Enrique Mattos
   1.  Conhecendo o Google Earth Engine (GEE)
   2.  Mapas Interativos com Geemap
   3.  Carregando Dados no Google Earth Engine (GEE)
