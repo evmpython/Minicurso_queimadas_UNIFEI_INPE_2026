@@ -50,7 +50,7 @@
 
 ## 🛰️ Conteúdo Programático
 
-- ### Visão Geral do Programa Queimadas (INPE)
+- ### Visão Geral do Programa Queimadas (INPE) - Paulo Cunha
 
 - ### Sistemas e Ferramentas Operacionais de Queimadas e Pesquisas Aplicadas
   1. Apresentar os principais sistemas e ferramentas operacionais utilizados no monitoramento de queimadas, destacando suas características e limitações. Em seguida, serão apresentados exemplos de aplicações da pesquisa científica na área de queimadas.
