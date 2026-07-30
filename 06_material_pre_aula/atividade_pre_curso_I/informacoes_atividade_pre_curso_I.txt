@@ -1,12 +1,18 @@
-Objetivo: Nesta atividade pré-curso, os participantes aprenderão a criar e configurar uma conta no Google Earth Engine (GEE) para uso não comercial, incluindo a criação do Project ID, ativação da API e acesso ao Code Editor. Ao final, será realizada a configuração inicial de um notebook no Google Colab, preparando o ambiente que será utilizado nas atividades práticas de processamento e visualização de dados de queimadas ao longo do curso.
+Nessa atividade pré-curso faremos uma breve introdução à ferramenta Google Colab, utilizada para executar os nossos scripts Python diretamente na nuvem durante o treinamento.
+
+Objetivo: Familiarização com a ferramenta, que será utilizada em todas as atividades práticas.
 
 Duração da atividade: Aproximadamente 1 hora.
 
-Estudar os slides:
-1_apresentacao_pre_atividade_pratica_II.pdf
+Importante: É necessário ter uma conta Gmail para editar e salvar "Notebooks Colab" (interface onde executaremos nossos scripts).
 
-Assistir o vídeo:
-https://www.youtube.com/watch?v=ZteBH_M5prw&t=15s
+Vídeo: 
+https://www.youtube.com/watch?v=HOtDdHWfgZY&t=2s
 
-Testar o código:
-https://colab.research.google.com/drive/1OIGLmTlv6iCqJ2gQxBEkb6u5-aWrcJ-P?usp=sharing
+Link para a criação de um "Notebook Colab" em branco: 
+https://colab.research.google.com/
+
+Link do notebook de teste (introdução ao processamento de dados de satélites): 
+https://colab.research.google.com/drive/1zg9ugxZ3CjxtxNf4qZwpXtQ43PehG-Cx?usp=sharing
+
+Atenção: Conforme vemos no vídeo, é imprescindível criar uma cópia do notebook em "Arquivo" > "Salvar uma cópia no Drive".
