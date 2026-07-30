@@ -50,14 +50,17 @@
 
 ## 🛰️ Conteúdo Programático
 
-- ### Visão Geral do Programa Queimadas (INPE) - Paulo Cunha
+- ### Visão Geral do Programa Queimadas (INPE)
+  Ministrante: Paulo Cunha
 
 - ### Sistemas e Ferramentas Operacionais de Queimadas e Pesquisas Aplicadas - Vanúcia Schumacher 
   1. Apresentar os principais sistemas e ferramentas operacionais utilizados no monitoramento de queimadas, destacando suas características e limitações. Em seguida, serão apresentados exemplos de aplicações da pesquisa científica na área de queimadas.
 
-- ### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites - Guilherme Martins
+- ### Aula Teórica I: Introdução sobre Estimativa de Queimadas por Satélites
+Ministrante: Guilherme Martins
 
-- ### Aula Teórica II: Satélites Sentinel e Landsat - Enrique Mattos
+- ### Aula Teórica II: Satélites Sentinel e Landsat
+Ministrante: Enrique Mattos
 
 - ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
 Ministrante: Guilherme Martins
