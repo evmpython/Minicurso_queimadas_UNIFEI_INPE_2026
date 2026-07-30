@@ -59,7 +59,8 @@
 
 - ### Aula Teórica II: Satélites Sentinel e Landsat - Enrique Mattos
 
-- ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE - Ministrante: Guilherme Martins
+- ### Atividade Prática I: Processamento e Visualização de Dados de Focos de Calor disponibilizados pelo INPE
+- [Ministrante: Guilherme Martins]
   1. Exploração e padronização de dados de focos de queimadas
   2. Manipulação de GeoDataFrames da América do Sul e do Brasil
   3. Sistemas de referência de coordenadas (CRS) e reprojeção
